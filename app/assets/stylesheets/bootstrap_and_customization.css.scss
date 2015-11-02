@@ -1,0 +1,27 @@
+$jumbotron-padding:			30px;
+$body-bg:					#22313F;
+$jumbotron-bg:				#95A5A6;
+$navbar-default-bg:			#95A5A6;
+$navbar-default-link-color:	#22313F;
+$well-bg:					#95A5A6;
+
+@import 'bootstrap';
+@import url(https://fonts.googleapis.com/css?family=Megrim);
+
+
+body {
+	font-family: 'Megrim', cursive;
+	color:	black;
+}
+
+h1 {
+	font-family: 'Megrim', cursive;
+	color:	black;
+}
+
+p {
+	font-family: 'Megrim', cursive;
+	color:	black;
+	font-size:	20px;
+}
+
